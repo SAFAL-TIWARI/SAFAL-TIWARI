@@ -1,4 +1,4 @@
-## Hi, I.m Safal ✨
+## Hi, I'm Safal ✨
 
 🎓 B.Tech CSE (IoT) | SATI Vidisha<br/>
 💻 IoT + Coding = Passion<br/>
