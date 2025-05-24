@@ -351,30 +351,6 @@ Other        28 mins         ░░░░░░░░░░░░░░░░░
 
 <br/>
 
-<!-- Animated Social Media Icons -->
-<div align="center">
-  <a href="mailto:safaltiwari602@gmail.com">
-    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/safal-tiwari">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/safal.editz_/">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/SAFAL_TIWARI_">
-    <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" alt="Twitter" width="50" height="50"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/safaltiwari">
-    <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="Discord" width="50" height="50"/>
-</div>
-
-</div>
-
 ---
 
 <div align="center">
