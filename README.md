@@ -25,8 +25,8 @@
 <p align="left">
 <a href="https://www.instagram.com/safal.editz_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/safal-tiwari" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/safal_tiwari" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="mailto:safaltiwari@example.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+<a href="https://twitter.com/SAFAL_TIWARI_" target="_blank"><img align="center" src="https://img.icons8.com/ios-filled/50/ffffff/x.png" alt="Twitter" height="25" width="35" /></a>
+<a href="mailto:safaltiwari602@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" height="35" width="35" /></a>
 </p>
 
 ---
@@ -109,6 +109,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAFAL-TIWARI&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAFAL-TIWARI&theme=radical" width="100%"/>
+</div>
+
 ---
 
 ## 🎯 Current Focus & Goals
@@ -150,30 +154,13 @@
 </div>
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SAFAL-TIWARI/SAFAL-TIWARI/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ## 💡 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
 
----
 
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" width="350" />
-</div>
-
----
 
 ## 📊 Weekly Development Breakdown
 
@@ -231,10 +218,12 @@ Other        28 mins         ░░░░░░░░░░░░░░░░░
 - 📈 Sharing knowledge and learning together
 
 ### 📧 Reach out to me:
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safaltiwari@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safaltiwari602@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/safal-tiwari)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/safal.editz_/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/safal_tiwari)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SAFAL_TIWARI_)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/safaltiwari)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/safaltiwari)
 
 </div>
 
@@ -243,7 +232,9 @@ Other        28 mins         ░░░░░░░░░░░░░░░░░
 <div align="center">
 
 ### 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=SAFAL-TIWARI&icon=4&color=11)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=SAFAL-TIWARI&color=brightgreen&style=flat-square&label=Profile+Views)
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=SAFAL-TIWARI%2FSAFAL-TIWARI&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=SAFAL-TIWARI%2FSAFAL-TIWARI)
 
 ### ⭐ If you like my work, give it a star!
 
