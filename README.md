@@ -52,79 +52,55 @@
 
 ## 💻 Tech Stack & Skills
 
-<br/>
-
 <div align="center">
 
-  <table>
-    <tr>
-      <td align="center" width="50%">
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
 
-### 🔥 Languages
+### 🔥 Programming Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-### 🌐 Frontend Development
+### 🌐 Web Development
 <p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js"/>
-  <img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge" alt="WebGL"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-### ⚙️ Backend & Frameworks
+### 🤖 AI & Machine Learning
 <p align="center">
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
-  <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js"/>
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-  <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
 </p>
 
-### ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"/>
-</p>
+</td>
+<td align="center" width="50%" valign="top">
 
-### 🗄️ Databases
+### 🛠️ Development Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
-</p>
-
-### 🔧 Tools & Technologies
-<p align="center">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
 
 ### 🎨 Design & Creative
 <p align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" alt="After Effects"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinci-resolve&logoColor=white" alt="DaVinci Resolve"/>
 </p>
 
-### 📊 Data Science & Analytics
+### ☁️ Cloud & Deployment
 <p align="center">
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </p>
-  </table>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -148,7 +124,7 @@
 <p align="center">
    <a>
    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SAFAL-TIWARI&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
+   <img align="center" src="https://streak-stats.demolab.com/?user=SAFAL-TIWARI&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png">
    </a>
 </p>
@@ -167,32 +143,31 @@
 
 ---
 
-## 🎯 Current Focus & Goals
-
-<div align="center">
-
-### 🔭 What I'm Working On
-- 🚀 **LearnFlow Platform** - Interactive learning management system ([Live Demo](https://learn-flow-seven.vercel.app))
-- 🌐 **IoT Smart Home Automation** - Building intelligent home systems
-- 🤖 **AI-Powered Video Editing Tools** - Automating creative workflows
-- 📱 **Cross-Platform Mobile Apps** - React Native & Flutter projects
-- 🔗 **Blockchain Integration** - Web3 and smart contract development
-
-### 🌱 Learning Journey
-- **Advanced Machine Learning** for IoT applications
-- **Cloud Architecture** patterns and microservices
-- **DevOps & CI/CD** pipeline optimization
-- **3D Graphics Programming** with WebGL and Three.js
-
-</div>
-
----
-
 ## 🎨 Featured Projects
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+---
+
+### 📢 Important Update Regarding the LearnFlow Website 😔
+
+> [!IMPORTANT]
+> **Dear all,**
+> 
+> I hope you're doing well. I regret to inform you that I will no longer be able to continue working on the **LearnFlow website** due to some unforeseen issues with its user interface. Despite numerous efforts, I have been unable to resolve the problem. I'm not exactly sure how the issue occurred, but it has proven to be persistent and beyond my current ability to fix — even after seeking help from multiple AI tools 🤖 and exploring many possible solutions.
+> 
+> **LearnFlow** has been a deeply personal project for me. I started working on it on **May 3rd**, putting in significant effort and dedication. In fact, I continued development even during my **first-year final exams** 📚. The website was built using a mix of AI assistance and my own coding knowledge, and I truly gave it my best 💻.
+> 
+> However, given the current situation, I've decided to **pause all further development** on the project. It's a difficult decision, but one I had to make considering the circumstances.
+> 
+> Thank you for your support and understanding 🙏
+> 
+> **Warm regards,**  
+> **Safal Tiwari**
+
+---
 
 ### 🚀 **LearnFlow - Interactive Learning Platform**
 
@@ -232,40 +207,11 @@
 
 ---
 
-### 🏠 Smart Home IoT System
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SAFAL-TIWARI&repo=smart-home-iot&theme=radical)](https://github.com/SAFAL-TIWARI/smart-home-iot)
-
-### 🎬 AI Video Editor
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SAFAL-TIWARI&repo=ai-video-editor&theme=radical)](https://github.com/SAFAL-TIWARI/ai-video-editor)
-
-### 📊 Data Visualization Dashboard
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SAFAL-TIWARI&repo=data-viz-dashboard&theme=radical)](https://github.com/SAFAL-TIWARI/data-viz-dashboard)
-
-### 🌐 Portfolio Website
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SAFAL-TIWARI&repo=portfolio-website&theme=radical)](https://github.com/SAFAL-TIWARI/portfolio-website)
-
-</div>
-
----
 ## 💡 Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </div>
-
-
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   8 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.32%
-Python       4 hrs 22 mins   ██████░░░░░░░░░░░░░░░░░░░   25.64%
-HTML/CSS     2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.18%
-Java         1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   07.08%
-Other        28 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.78%
-```
-<!--END_SECTION:waka-->
 
 ---
 
@@ -285,29 +231,14 @@ Other        28 mins         ░░░░░░░░░░░░░░░░░
 
 ---
 
-## 🏅 Achievements & Certifications
-
-<div align="center">
-
-| 🏆 Achievement | 📅 Date | 🔗 Link |
-|:---|:---:|:---:|
-| **AWS Cloud Practitioner** | 2024 | [View Certificate](https://aws.amazon.com/certification/) |
-| **Google Cloud Associate** | 2024 | [View Certificate](https://cloud.google.com/certification) |
-| **React Developer Certification** | 2023 | [View Certificate](https://reactjs.org/) |
-| **IoT Specialist Certification** | 2023 | [View Certificate](https://iot.org/) |
-
-</div>
-
----
-
 ## 🎮 When I'm Not Coding
 
 <div align="center">
 
 🎮 **Gaming:** Exploring virtual worlds and strategy games
 🎬 **Video Editing:** Creating engaging content for social media
-📚 **Reading:** Tech blogs, sci-fi novels, and innovation stories
-🏃‍♂️ **Fitness:** Running, cycling, and staying active
+📚 **Reading:** Tech blogs
+🏃‍♂️ **Fitness:** Cycling, and staying active
 🎵 **Music:** Listening to lo-fi, electronic, and indie music
 
 </div>
