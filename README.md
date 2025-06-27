@@ -123,11 +123,19 @@
 
 <p align="center">
    <a>
-   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
-   <img align="center" src="https://streak-stats.demolab.com/?user=SAFAL-TIWARI&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
-   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png">
+   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png" style="display: none;" class="desktop-only">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SAFAL-TIWARI&theme=radical" alt="GitHub Streak" /></a>
+   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png" style="display: none;" class="desktop-only">
    </a>
 </p>
+
+<style>
+@media (min-width: 1024px) {
+  .desktop-only {
+    display: inline-block !important;
+  }
+}
+</style>
 
 
 <div align="center">
