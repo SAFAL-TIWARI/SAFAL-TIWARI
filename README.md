@@ -112,39 +112,20 @@
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=SAFAL-TIWARI&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
----
+&nbsp;
 
 ## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SAFAL-TIWARI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAFAL-TIWARI&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<p align="center">
-   <a>
-   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png" style="display: none;" class="desktop-only">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SAFAL-TIWARI&theme=radical" alt="GitHub Streak" /></a>
-   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png" style="display: none;" class="desktop-only">
-   </a>
-</p>
-
-<style>
-@media (min-width: 1024px) {
-  .desktop-only {
-    display: inline-block !important;
-  }
-}
-</style>
-
+</div> &nbsp;
 
 <div align="center">
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAFAL-TIWARI&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
-
-
-
+&nbsp;
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAFAL-TIWARI&theme=radical" width="100%"/>
 </div>
