@@ -157,7 +157,7 @@
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logoColor=white)](https://sati-chatbot.vercel.app/)
 [![GitHub Repo](https://img.shields.io/badge/📂_Repository-4ECDC4?style=for-the-badge&logoColor=white)](https://github.com/SAFAL-TIWARI/SATI-ChatBot)
-[![Documentation](https://img.shields.io/badge/📖_Docs-45B7D1?style=for-the-badge&logoColor=white)](https://github.com/SAFAL-TIWARI/SATI-ChatBot#readme)
+[![Documentation](https://img.shields.io/badge/📖_Docs-45B7D1?style=for-the-badge&logoColor=white)](https://github.com/SAFAL-TIWARI/SATI-ChatBot/blob/main/README.md)
 
 </div>
 
