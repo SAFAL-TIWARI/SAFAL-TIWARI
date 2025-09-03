@@ -140,21 +140,54 @@
 
 ---
 
+### 🤖 **SATI ChatBot - Advanced AI Assistant**
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
+<br><br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🤖+Advanced+AI+ChatBot;🎓+Built+for+SATI+Students;⚡+Dual+API+Support;🔧+Interactive+Code+Editor;📚+Academic+Resources+Hub" alt="SATI ChatBot Features" />
+</div>
+
+[![SATI ChatBot](https://github-readme-stats.vercel.app/api/pin/?username=SAFAL-TIWARI&repo=SATI-ChatBot&theme=radical&show_owner=true)](https://github.com/SAFAL-TIWARI/SATI-ChatBot)
+
+<div align="center">
+
+**🌟 Modern AI-powered chatbot for Samrat Ashok Technological Institute (SATI) with cutting-edge features**
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logoColor=white)](https://sati-chatbot.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/📂_Repository-4ECDC4?style=for-the-badge&logoColor=white)](https://github.com/SAFAL-TIWARI/SATI-ChatBot)
+[![Documentation](https://img.shields.io/badge/📖_Docs-45B7D1?style=for-the-badge&logoColor=white)](https://github.com/SAFAL-TIWARI/SATI-ChatBot#readme)
+
+</div>
+
+#### ✨ **Key Features:**
+- 🤖 **Dual AI Integration** - Google Gemini & Groq APIs for enhanced responses
+- 📚 **Academic Resources Hub** - Comprehensive study materials and resources
+- 💻 **Interactive Code Editor** - Multi-language support with syntax highlighting
+- 🔐 **OAuth Authentication** - Secure login and user management
+- 💾 **Chat Persistence** - Save and retrieve conversation history
+- 📱 **PWA Ready** - Progressive Web App for mobile and desktop
+- 🎨 **Modern UI/UX** - Responsive design with smooth animations
+
+#### 🛠️ **Tech Stack:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-FF6B35?style=flat-square&logo=groq&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
 ### 📢 Important Update Regarding the LearnFlow Website 😔
 
 > [!IMPORTANT]
-> **Dear all,**
+> Due to persistent UI issues that I couldn't resolve despite extensive efforts 🤖, I've decided to **pause development** on the **LearnFlow website**. This was a personal project I started on **May 3rd** and worked on even during my **first year final exams** 📚.
 > 
-> I hope you're doing well. I regret to inform you that I will no longer be able to continue working on the **LearnFlow website** due to some unforeseen issues with its user interface. Despite numerous efforts, I have been unable to resolve the problem. I'm not exactly sure how the issue occurred, but it has proven to be persistent and beyond my current ability to fix — even after seeking help from multiple AI tools 🤖 and exploring many possible solutions.
+> Thank you for your understanding 🙏
 > 
-> **LearnFlow** has been a deeply personal project for me. I started working on it on **May 3rd**, putting in significant effort and dedication. In fact, I continued development even during my **first-year final exams** 📚. The website was built using a mix of AI assistance and my own coding knowledge, and I truly gave it my best 💻.
-> 
-> However, given the current situation, I've decided to **pause all further development** on the project. It's a difficult decision, but one I had to make considering the circumstances.
-> 
-> Thank you for your support and understanding 🙏
-> 
-> **Warm regards,**  
-> **Safal Tiwari**
+> **- Safal Tiwari**
 
 ---
 
