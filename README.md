@@ -75,6 +75,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=blue" alt="Gemini"/>
+</p>
 
 </td>
 <td align="center" width="50%" valign="top">
@@ -110,22 +113,25 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=SAFAL-TIWARI&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 &nbsp;
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SAFAL-TIWARI&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAFAL-TIWARI&layout=compact&langs_count=8&theme=radical"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=SAFAL-TIWARI&show_icons=true&theme=radical&hide_border=true&bg_color=20232a" height="180" alt="stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SAFAL-TIWARI&layout=compact&theme=radical&hide_border=true&bg_color=20232a" height="180" alt="languages" />
+ 
+</div>
+<div align="center">
+ <img src="https://streak-stats.demolab.com/?user=SAFAL-TIWARI&theme=radical&hide_border=true&bg_color=20232a" height="180" alt="streak" />
 </div> &nbsp;
 
-<div align="center">
 
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SAFAL-TIWARI&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
-&nbsp;
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SAFAL-TIWARI&theme=radical" width="100%"/>
 </div>
