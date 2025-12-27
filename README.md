@@ -155,7 +155,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🤖+Advanced+AI+ChatBot;🎓+Built+for+SATI+Students;⚡+Dual+API+Support;🔧+Interactive+Code+Editor;📚+Academic+Resources+Hub" alt="SATI ChatBot Features" />
 </div>
 
-[![SATI ChatBot](https://github-readme-stats.vercel.app/api/pin/?username=SAFAL-TIWARI&repo=SATI-ChatBot&theme=radical&show_owner=true)](https://github.com/SAFAL-TIWARI/SATI-ChatBot)
+[![SATI ChatBot](https://github-readme-stats-fast.vercel.app/api/pin/?username=SAFAL-TIWARI&repo=SATI-ChatBot&theme=radical&show_owner=true)](https://github.com/SAFAL-TIWARI/SATI-ChatBot)
 
 <div align="center">
 
@@ -206,7 +206,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=🎓+Interactive+Learning+Platform;📚+Modern+Education+Technology;🚀+Built+with+React+%26+Next.js;⚡+Fast+%26+Responsive+Design;🌟+Transforming+Online+Learning" alt="LearnFlow Features" />
 </div>
 
-[![LearnFlow](https://github-readme-stats.vercel.app/api/pin/?username=SAFAL-TIWARI&repo=LearnFlow&theme=radical&show_owner=true)](https://github.com/SAFAL-TIWARI/LearnFlow)
+[![LearnFlow](https://github-readme-stats-fast.vercel.app/api/pin/?username=SAFAL-TIWARI&repo=LearnFlow&theme=radical&show_owner=true)](https://github.com/SAFAL-TIWARI/LearnFlow)
 
 <div align="center">
 
