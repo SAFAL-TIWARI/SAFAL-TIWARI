@@ -14,12 +14,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-🎓 **B.Tech CSE (IoT)** | SATI Vidisha
-💻 **Passionate about** IoT + Coding = Innovation
-🚀 **Mission:** Coding, Creating, and Innovating for a better tomorrow
-🎥 **Creative Side:** Video editing on trending reels
-🌱 **Currently Learning:** Advanced IoT architectures and AI integration
-⚡ **Fun Fact:** I can debug code and edit videos simultaneously!
+🎓 CSE (IoT) student at SATI Vidisha
+💻 Full-stack learner working with web technologies and AI APIs
+🧠 Creator of an AI campus assistant chatbot and interactive web projects
+🎥 Video editor for tech communities (GDG & Flux)
+🌱 Learning backend development, system design, and scalable applications
+⚡ I build, test, break, fix, and ship
 
 ### 🌐 Connect with me:
 
