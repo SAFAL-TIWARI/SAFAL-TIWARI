@@ -141,15 +141,15 @@
 ## 🎨 Featured Projects
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+<!-- 
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"> -->
 
 ---
 
 ### 🤖 **SATI ChatBot - Advanced AI Assistant**
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
-<br><br>
+<!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500"> -->
+<!-- <br><br> -->
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🤖+Advanced+AI+ChatBot;🎓+Built+for+SATI+Students;⚡+Dual+API+Support;🔧+Interactive+Code+Editor;📚+Academic+Resources+Hub" alt="SATI ChatBot Features" />
@@ -159,22 +159,13 @@
 
 <div align="center">
 
-**🌟 Modern AI-powered chatbot for Samrat Ashok Technological Institute (SATI) with cutting-edge features**
-
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logoColor=white)](https://sati-chatbot.vercel.app/)
 [![GitHub Repo](https://img.shields.io/badge/📂_Repository-4ECDC4?style=for-the-badge&logoColor=white)](https://github.com/SAFAL-TIWARI/SATI-ChatBot)
 [![Documentation](https://img.shields.io/badge/📖_Docs-45B7D1?style=for-the-badge&logoColor=white)](https://github.com/SAFAL-TIWARI/SATI-ChatBot/blob/main/README.md)
 
 </div>
 
-#### ✨ **Key Features:**
-- 🤖 **Dual AI Integration** - Google Gemini & Groq APIs for enhanced responses
-- 📚 **Academic Resources Hub** - Comprehensive study materials and resources
-- 💻 **Interactive Code Editor** - Multi-language support with syntax highlighting
-- 🔐 **OAuth Authentication** - Secure login and user management
-- 💾 **Chat Persistence** - Save and retrieve conversation history
-- 📱 **PWA Ready** - Progressive Web App for mobile and desktop
-- 🎨 **Modern UI/UX** - Responsive design with smooth animations
+
 
 #### 🛠️ **Tech Stack:**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -186,54 +177,59 @@
 
 ---
 
-### 📢 Important Update Regarding the LearnFlow Website 😔
+### 🎵 **Loop Station - Interactive Music Creator**
 
-> [!IMPORTANT]
-> Due to persistent UI issues that I couldn't resolve despite extensive efforts 🤖, I've decided to **pause development** on the **LearnFlow website**. This was a personal project I started on **May 3rd** and worked on even during my **first year final exams** 📚.
-> 
-> Thank you for your understanding 🙏
-> 
-> **- Safal Tiwari**
+<!-- <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmIzMmVycGk4bWIxY2FiOXE2ZGcwOGpmaWhobXdnZGtrZ3R5MWttNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0XJIFEdFcjLZXasjSR/giphy.gif" width="250"> -->
+<!-- <br><br> -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🎵+Record+%26+Play+Beats;🎛️+Multiple+Audio+Tracks;🎹+Interactive+Soundboard;🔊+Real-time+Audio+Mixing;💾+Export+Your+Creations" alt="Loop Station Features" />
+</div>
+
+[![Loop Station](https://github-readme-stats-fast.vercel.app/api/pin/?username=SAFAL-TIWARI&repo=Loop-Station&theme=radical&show_owner=true)](https://github.com/SAFAL-TIWARI/Loop-Station)
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logoColor=white)](https://safal-tiwari.github.io/Loop-Station/)
+[![GitHub Repo](https://img.shields.io/badge/📂_Repository-4ECDC4?style=for-the-badge&logoColor=white)](https://github.com/SAFAL-TIWARI/Loop-Station)
+[![Documentation](https://img.shields.io/badge/📖_Docs-45B7D1?style=for-the-badge&logoColor=white)](https://github.com/SAFAL-TIWARI/Loop-Station/blob/main/README.md)
+
+</div>
+
+#### 🛠️ **Tech Stack:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ---
 
-### 🚀 **LearnFlow - Interactive Learning Platform**
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/993370af-11f4-48e7-9e0d-e5b79c2e7890" width="500">
-<br><br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=🎓+Interactive+Learning+Platform;📚+Modern+Education+Technology;🚀+Built+with+React+%26+Next.js;⚡+Fast+%26+Responsive+Design;🌟+Transforming+Online+Learning" alt="LearnFlow Features" />
-</div>
-
-[![LearnFlow](https://github-readme-stats-fast.vercel.app/api/pin/?username=SAFAL-TIWARI&repo=LearnFlow&theme=radical&show_owner=true)](https://github.com/SAFAL-TIWARI/LearnFlow)
+### ⚛️ **Flux Frontend - Modern Web Experience**
+<!-- 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8157774e-5e37-4d6d-bcc4-79326e0bdaf9" width="500"> -->
+<!-- <br><br> -->
 
 <div align="center">
-
-**🌟 A modern, interactive learning management system built with cutting-edge technologies**
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logoColor=white)](https://learn-flow-seven.vercel.app)
-[![GitHub Repo](https://img.shields.io/badge/📂_Repository-4ECDC4?style=for-the-badge&logoColor=white)](https://github.com/SAFAL-TIWARI/LearnFlow)
-[![Documentation](https://img.shields.io/badge/📖_Docs-45B7D1?style=for-the-badge&logoColor=white)](https://github.com/SAFAL-TIWARI/LearnFlow#readme)
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=⚛️+Modern+React+Frontend;🎨+Stunning+UI/UX+Design;⚡+Blazing+Fast+Performance;📱+Fully+Responsive+Layout;🚀+Advanced+Animations" alt="Flux Frontend Features" />
 </div>
 
-#### ✨ **Key Features:**
-- 🎯 **Interactive Learning Modules** - Engaging educational content
-- 📊 **Progress Tracking** - Real-time learning analytics
-- 🎨 **Modern UI/UX** - Responsive and intuitive design
-- 🔐 **User Authentication** - Secure login and profile management
-- 📱 **Mobile Responsive** - Works seamlessly on all devices
-- ⚡ **Fast Performance** - Optimized for speed and efficiency
+[![Flux Frontend](https://github-readme-stats-fast.vercel.app/api/pin/?username=SAFAL-TIWARI&repo=Flux-Frontend&theme=radical&show_owner=true)](https://github.com/SAFAL-TIWARI/Flux-Frontend)
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-FF6B6B?style=for-the-badge&logoColor=white)](https://flux-frontend.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/📂_Repository-4ECDC4?style=for-the-badge&logoColor=white)](https://github.com/SAFAL-TIWARI/Flux-Frontend)
+[![Documentation](https://img.shields.io/badge/📖_Docs-45B7D1?style=for-the-badge&logoColor=white)](https://github.com/SAFAL-TIWARI/Flux-Frontend/blob/main/README.md)
+
+</div>
 
 #### 🛠️ **Tech Stack:**
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ---
+
+
 
 ## 💡 Random Dev Quote
 
