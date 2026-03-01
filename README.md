@@ -190,7 +190,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🎵+Record+%26+Play+Beats;🎛️+Multiple+Audio+Tracks;🎹+Interactive+Soundboard;🔊+Real-time+Audio+Mixing;💾+Export+Your+Creations" alt="Loop Station Features" />
 </div>
 
-[![Loop Station](https://github-readme-stats-fast.vercel.app/api/pin/?username=SAFAL-TIWARI&repo=Loop-Station&theme=radical&show_owner=true)](https://github.com/SAFAL-TIWARI/Loop-Station)
+[![Loop Station](https://github-readme-stats-fast.vercel.app/api/pin/?username=SAFAL-TIWARI&repo=Loop-Station&theme=radical&show_owner=true&cache_bust=1)](https://github.com/SAFAL-TIWARI/Loop-Station)
 
 <div align="center">
 
