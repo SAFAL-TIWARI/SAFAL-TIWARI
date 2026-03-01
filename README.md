@@ -146,6 +146,11 @@
 
 ---
 
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%" valign="top">
+
 ### 🤖 **SATI ChatBot - Advanced AI Assistant**
 
 <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500"> -->
@@ -165,8 +170,6 @@
 
 </div>
 
-
-
 #### 🛠️ **Tech Stack:**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -175,7 +178,8 @@
 ![Groq](https://img.shields.io/badge/Groq-FF6B35?style=flat-square&logo=groq&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
----
+</td>
+<td align="center" width="50%" valign="top">
 
 ### 🎵 **Loop Station - Interactive Music Creator**
 
@@ -200,6 +204,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
